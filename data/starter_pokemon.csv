@@ -1,0 +1,4 @@
+﻿pokedex_num,name,type,base_hp,base_attack,base_defense,base_sp_attack,base_sp_defense,base_speed,total_base
+1,Bulbasaur,"Grass, Poison",45,49,49,65,65,45,318
+2,Ivysaur,"Grass, Poison",60,62,63,80,80,60,405
+3,Venusaur,"Grass, Poison",80,82,83,100,100,80,525
