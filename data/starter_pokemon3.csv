@@ -1,0 +1,4 @@
+﻿pokedex_num,name,type,base_hp,base_attack,base_defense,base_sp_attack,base_sp_defense,base_speed,total_base
+7,Squirtle,Water,44,48,65,50,64,43,314
+8,Wartortle,Water,59,63,80,65,80,58,405
+9,Blastoise,Water,79,83,100,85,105,78,530

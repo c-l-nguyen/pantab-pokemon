@@ -1,0 +1,4 @@
+﻿pokedex_num,name,type,base_hp,base_attack,base_defense,base_sp_attack,base_sp_defense,base_speed,total_base
+4,Charmander,Fire,39,52,43,60,50,65,309
+5,Charmeleon,Fire,58,64,58,80,65,80,405
+6,Charizard,"Fire, Flying",78,84,78,109,85,100,534
